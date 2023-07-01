@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffdd5773-4cdf-40f8-a761-1e69bd19c7c7": {
+      "ProjectGuid": "ffdd5773-4cdf-40f8-a761-1e69bd19c7c7",
+      "DisplayName": "FacialRecognition",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

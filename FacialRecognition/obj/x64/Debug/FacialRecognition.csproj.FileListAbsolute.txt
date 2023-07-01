@@ -1,0 +1,7 @@
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.csproj.AssemblyReference.cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.Form1.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.Recognizer.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.StartScreen.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x64\Debug\FacialRecognition.csproj.CoreCompileInputs.cache

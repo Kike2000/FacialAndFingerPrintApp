@@ -1,0 +1,51 @@
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.dll
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.xml
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\flow\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.xml
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csprojResolveAssemblyReference.cache
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.Cache
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+D:\flow\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\bin\Debug\Emgu.Util.dll
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+D:\FacialRecognition (1)\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.Cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe.config
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe.manifest
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.application
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.exe
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\FacialRecognition.pdb
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.AssemblyReference.cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Form1.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Properties.Resources.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.Recognizer.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.StartScreen.resources
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.GenerateResource.cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe.manifest
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.application
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.csproj.CopyComplete
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.exe
+C:\Users\thepi\OneDrive\Documents\FacialRecognition\FacialRecognition\obj\x86\Debug\FacialRecognition.pdb

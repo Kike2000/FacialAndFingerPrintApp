@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb2c9b41-0753-410a-b7c0-f8d2cb4d54ae": {
+      "ProjectGuid": "cb2c9b41-0753-410a-b7c0-f8d2cb4d54ae",
+      "DisplayName": "Prj_Capa_Datos",
+      "ColorIndex": 0
+    },
+    "eb14cbef-91a0-40b6-9773-2901cc61606e": {
+      "ProjectGuid": "eb14cbef-91a0-40b6-9773-2901cc61606e",
+      "DisplayName": "MicroSisPlani",
+      "ColorIndex": 1
+    },
+    "0fd336fb-c9ec-4257-9327-b0446d0837a3": {
+      "ProjectGuid": "0fd336fb-c9ec-4257-9327-b0446d0837a3",
+      "DisplayName": "Prj_Capa_Negocio",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
